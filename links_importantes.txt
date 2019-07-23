@@ -1,0 +1,18 @@
+http://geopandas.org/data_structures.html
+https://ftp.space.dtu.dk/pub/Altimetry/THK/2016_IDA_ALBERTE/Bach_Jason.pdf
+https://automating-gis-processes.github.io/CSC18/lessons/L4/point-in-polygon.html
+https://automating-gis-processes.github.io/CSC18/lessons/L5/static-maps.html
+https://github.com/pelias/polygon-lookup/issues/3
+https://gis.stackexchange.com/questions/31927/downloading-points-of-interest-from-google-maps
+https://janakiev.com/blog/openstreetmap-with-python-and-overpass-api/
+https://github.com/njanakiev/geospatial-storytelling
+https://wiki.openstreetmap.org/wiki/Planet.osm
+
+creacion de poligonos con datos geoespaciales gitub
+
+https://github.com/lesley2958/twilio-geospatial
+
+https://scielo.conicyt.cl/pdf/ingeniare/v16n1/ART05.pdf
+
+https://www.researchgate.net/post/How_can_I_create_drive_time_and_distance_polygons_using_open_source_tools
+
