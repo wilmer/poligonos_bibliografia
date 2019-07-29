@@ -1,0 +1,284 @@
+importance of spatial data quality ttesis
+
+http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1794-61902016000400004
+https://www.researchgate.net/publication/294582289_Accuracy_Estimation_of_GPS_Receiver_Parameters_with_Re-Reference_System_in_Static_Mode
+
+
+https://translate.google.com/translate?hl=es&sl=en&u=https://www.researchgate.net/post/Accuracy_classification_assessment_using_ground_truth_points-any_thoughts&prev=search
+
+https://translate.google.com/?hl=es#view=home&op=translate&sl=en&tl=es&text=quality%20of%20satellites%0Adisturbance%20at%20transmission%20until%20reception%0Aproperties%20of%20reception%20devices%20(hard-%20and%20software)%0AThe%20accuracy%20of%20the%20device%20depends%20on%3A%0A%0Aquality%20of%20GPS-chip%0Aquality%20of%20electric%20signal%20processing%0Aquality%20of%20software%0A%0AThe%20producers%20of%20consumer-devices%20mostly%20don't%20give%20any%20information%20on%20the%20used%20hard-%20and%20software.%20Details%20on%20signal%20correction%20(%22WAAS%22%20etc.)%20are%20often%20indefinite%20to%20misleading.%20Also%2C%20the%20displayed%20%22accuracy%22%20of%20some%20devices%20is%20not%20defined%20and%20therefore%20rather%20useless.%0AWide%20Area%20Augmentation%20System%0A%0AThere%20are%20many%20sources%20of%20error%20that%20can%20occur%20when%20transmitting%20a%20GPS%20signal%20from%0Athe%20satellites%20to%20the%20receivers.%20Much%20of%20this%20error%20can%20be%20accounted%20for%2C%20such%20as%20clock%20drift%0Aof%20the%20satellites%20and%20signal%20propagation%20delay%20in%20the%20upper%20atmosphere%20(Grewal%2C%20Weill%2C%20%26%0AAndrews%2C%202007%2C%20p.%20103-130).%20To%20account%20for%20the%20clock%20drift%2C%20the%20satellites%20will%20periodically%0Asynchronize%20their%20clock%20with%20a%20common%20clock.%20The%20small%20drift%20between%20synchronizations%0Awill%20have%20a%20negligible%20effect%20on%20the%20overall%20location%20calculation.%20The%20signal%20propagation%0Adelay%20through%20the%20upper%20atmosphere%20can%20be%20accounted%20for%20by%20calculating%20the%20typical%20signal%0Apropagation%20delay%20based%20on%20the%20position%20of%20the%20sun%20relative%20to%20the%20rotation%20of%20the%20Earth.%0AGiven%20that%20conditions%20in%20the%20upper%20atmosphere%20rarely%20change%20unpredictably%2C%20this%20delay%20can%0Abe%20calculated%20with%20high%20accuracy%0AThere%20are%20some%20sources%20of%20error%20that%20cannot%20be%20accounted%20for%20in%20the%20location%0Acalculation.%20This%20error%20is%20the%20cause%20of%20the%205%20meters%20of%20uncertainty%20in%20the%20location%0Acalculation%2C%20even%20under%20optimal%20conditions.%20The%20primary%20sources%20of%20this%20error%20are%20signal%0Apropagation%20in%20the%20lower%20atmosphere%20and%20signal%20multipath%20delay.%20Signal%20propagation%20delay%0Ain%20the%20lower%20atmosphere%20occurs%20when%20the%20signal%20is%20slowed%20by%20bumping%20into%20particles%20in%0Athe%20air%20such%20as%20water%20particles%20in%20clouds.%20As%20the%20weather%20changes%20so%20does%20the%20signal%0Apropagation%20delay%20making%20it%20impossible%20to%20account%20for.%20The%20largest%20source%20of%20error%20comes%0Afrom%20multipath%20delay.%20Multipath%20delay%20occurs%20when%20the%20signal%20bounces%20off%20objects%20before%0Aarriving%20at%20the%20receiver.%20As%20it%20is%20impossible%20to%20determine%20how%20many%20times%20the%20signal%20has%0Abounced%20and%20off%20what%20types%20of%20objects%2C%20there%20is%20no%20way%20to%20calculate%20the%20delay.%20Multipath%0Adelay%20is%20most%20noticeable%20when%20the%20receiver%20is%20near%20a%20building%2C%20leading%20to%20a%20large%20variation%0Ain%20the%20location%20calculation%20between%20readings.%20The%20error%20will%20typically%20be%20much%20larger%20than%0Athe%205%20meters%20of%20error%20as%20is%20typical%20under%20optimal%20conditions.%0A%0Aimportancia%20de%20la%20calidad%20de%20datos%20espaciales%0A%0AThe%20importance%20of%20maintaining%20high%20quality%20data%20to%20support%20business%20and%20scientific%20conduct%20has%20been%0Aextensively%20recognized%0A%20deemed%20non-essential%0A%20and%20thereby%20encourage%20the%20process%20of%20information%20communication%0Aand%20those%20related%20to%20the%20use%20of%20data%0AIn%20this%20model%2C%20the%20three%20categories%20of%20source%20errors%20create%20primary%20errors%20(positional%20errors%20and%20attribute%20errors)%20and%20secondary%0Aerrors%20(logical%20consistency%20and%20completeness).%20%0AAll%20of%20these%20errors%20form%20the%20global%20error%20attached%20to%20the%20final%20product.%7D%0A%0A%0A%20Data%20collection%3A%20inaccuracies%20in%20field%20measurements%3B%20inaccurate%20equipment%3B%0Aincorrect%20recording%20procedures%3B%20errors%20in%20analysis%20of%20remotely%20sensed%20data.%0A%E2%80%93%20Data%20input%3A%20digitizing%20error%3B%20nature%20of%20fuzzy%20natural%20boundaries%3B%20other%20forms%20of%0Adata%20entry.%0AData%20storage%3A%20numerical%20precision%3B%20spatial%20precision%20(in%20raster%20systems).%0A%E2%80%93%20Data%20manipulation%3A%20wrong%20class%20intervals%3B%20boundary%20errors%3B%20spurious%20polygons%0Aand%20error%20propagation%20with%20overlay%20operations.%0A%E2%80%93%20Data%20output%3A%20scaling%3B%20inaccurate%20output%20device.%0A%E2%80%93%20Data%20usage%3A%20incorrect%20understanding%20of%20information%3B%20incorrect%20use%20of%20data.
+
+https://translate.google.com/?hl=es#view=home&op=translate&sl=en&tl=es&text=Let%20us%20start%20with%20the%20dimensions%20and%20definitions%20of%20open%20data%20quality%20metrics.%20A%20senior%20staff%20writer%20for%20the%20OGC%2C%20Jonathan%20Gray%20(2010)%20calls%20for%20an%20OGC%20consensus%20process%20and%20consensus-derived%20geo-processing%20interoperability%20standards.%20He%20is%20particularly%20enthusiastic%20about%20the%20open%20access%20possibilities%20in%20geospatial%20data.%20Listed%20below%2C%20his%2017%20Reasons%20why%20scientific%20geospatial%20data%20should%20be%20published%20online%20using%20OGC%20standard%20interfaces%20and%20ISO%20standard%20metadata%20provide%20an%20opportunity%20to%20consider%20possible%20dimensions%20for%20the%20metrics%20of%20open%20geospatial%20data%20quality.%0A%0AAfter%20reading%20this%20list%2C%20it%20becomes%20apparent%20that%20Gray's%20attention%20is%20more%20on%20data%20openness%20than%20data%20quality.%20Reasons%20such%20as%20return%20to%20investment%20and%20citizen%20science%20%26%20PR%20refer%20to%20open%20data%20usage%2C%20and%20service%20chaining%20and%20pace%20of%20science%20emphasize%20the%20role%20of%20openness%20in%20a%20data%20system.%20On%20the%20other%20hand%2C%20some%20of%20the%20reasons%20do%20provide%20additional%20thoughts%20to%20modify%20the%20categories%20of%20metrics%20dimensions%20listed%20in%20Table%201%20and%20are%20applicable%20to%20the%20quality%20measurement%20of%20open%20geospatial%20data%20which%20entail%20two%20inseparable%20components%3A%20openness%20and%20spatial%20character.%20The%20following%20list%20of%20categories%20is%20selected%20and%20defined%20to%20meet%20the%20specific%20requirements.%0A%0A%20Gray's%2017%20reasons%20why%20geospatial%20data%20should%20be%20open%20and%20standard%0AIn%20the%20domain%20of%20data%20collection%20methods%2C%20data%20semantics%2C%20%26%20processing%20methods%0A%0AVerifiability%0AValidating%20the%20relationship%20between%20data%20%26%20research%20conclusions%0A%0AComo%20verificar%20la%20exactitud%20de%20un%20punto%20en%20carreteras%0Apresici%C3%B3n%0A%0AMap%20accuracy%20should%20be%20determined%20by%20the%20intended%20use%20of%20the%20map.%20Historically%2C%20map%20accuracy%20determined%20the%20scale%20at%20which%20the%20map%20would%20be%20drawn.%20Until%20recently%20it%20has%20been%20customary%20to%20specify%20the%20scale%20of%20aerial%20photography%20for%20digital%20orthophotos%2C%20planimetric%20features%2C%20and%20topographic%20features%2C%20and%20then%20apply%20the%20National%20Map%20Accuracy%20Standard%20or%20other%20similar%20standard%20to%20determine%20the%20accuracy%20of%20the%20map.%0ABecause%20data%20vary%20significantly%20in%20nature%20and%20amount%20among%20scientific%20disciplines%2C%20measures%20can%20be%20taken%20in%20a%20unique%20way%20under%20particular%20circumstances.%20Consequently%2C%20metrics%20can%20have%20distinctive%20looks%20and%20exclusive%20functions.%20There%20are%20few%20prior%20studies%20available%20devoted%20to%20the%20development%20of%20workable%20metrics%20for%20open%20geospatial%20data%2C%20whether%20concerning%20creation%2C%20acquisition%2C%20retrieval%20and%20use%20of%20the%20data%20or%20data%20curation%20and%20management%2C%20either%20technically%20or%20politically.%20However%2C%20geospatial%20data%20are%20by%20their%20nature%20characterized%20by%20space%20and%20location%20with%20the%20combination%20of%20maps%20and%20coordinates%2C%20which%20differs%20radically%20from%20other%20types%20of%20data.%20These%20inseparable%20features%20make%20data%20openness%20in%20geoscience%20an%20additional%20challenge%20to%20everyone%20involved.%0A%0AComo%20medir%20la%20%20exactitud%20de%20un%20punto%20gps%20%20%0A%0AGiven%20that%20conditions%20in%20the%20upper%20atmosphere%20rarely%20change%20unpredictably%2C%20this%20delay%20can%0Abe%20calculated%20with%20high%20accuracy.%0A%0A.%20This%20location%20can%0Athen%20be%20transformed%20into%20a%20latitude%20and%20longitude%20coordinate%20on%20Earth.%20There%20is%20inherent%0Aerror%20in%20the%20location%20calculation%2C%20but%20under%20optimal%20conditions%20the%20location%20calculated%20will%0Abe%20within%205%20meters%20of%20the%20actual%20location%20of%20the%20receiver.%0A%0Ageoreferenciado%0A%0A%2C%20that%20in%20the%20long%20term%20focus%20on%20the%20devel-%0Aopment%20of%20geoinformatics%2C%20and%20recommendations%20of%20the%20INSPIRE%20(Infrastructure%0Afor%20Spatial%20Information%20in%20Europe)%20directive%20%0A%0Areliability%0Avagueness%0AThese%20accuracies%0Aare%20usually%20assessed%20by%20statistical%20methods%0A%0ASpatial%20vagueness%20can%20be%20determined%20based%20on%20the%20difference%20between%20geometry%0Asaved%20in%20the%20data%20representation%20of%20an%20object%20and%20the%20real%20geometry%20in%20the%20real%20world%0Aor%20geometry%20in%20data%20representation%20of%20an%20object%20in%20another%20database%20that%20is%20at%20least%20by%0Aone%20order%20more%20accurate%20than%20in%20the%20evaluated%20representation.%0ASpatial%20vagueness%20in%20case%20of%20one-point%20objects%20leads%20to%20a%20unit%20shift%20in%20the%20position%0Aof%20an%20object%20in%20several%20possible%20ways%20as%20a%20result%20of%20coordinates%20used%20to%20its%20description%0A(x%2Cy%2Cz).Spatialvaguenessofsolidobjectsontheotherhandrepresentrotationaround%0Athe%20original%20position%2C%20as%20well%20as%20simple%20shifts.%20With%20unsolid%20objects%2C%20vagueness%20of%0Aindividual%20definition%20points%20leads%20to%20complex%20changes%20of%20shape%20as%20well%20as%20position.%0AIt%20happens%20especially%20when%20position%20vagueness%20of%20individual%20points%20is%20partially%20or%0Acompletely%20independent.%0A%0AFor%20solid%20objects%20consisting%20of%20more%20connected%20points%20it%20is%20possible%20to%20define%20a%0Ashift%20and%20rotation%20of%20an%20object%20around%20one%20reference%20point.%20Left%20part%20in%20Fig.%202.20%0Agives%20anexample%20of4random%20projections%20ofapositionof%20avague%20solidobject%20whose%0Avaguenessindirectionx%20ishigherthanindirectionyandforwhichrotationvagueness%0Ais%20relatively%20small.%0A%0AFor%20changing%20objects%2C%20it%20is%20necessary%20to%20define%20a%20continuous%20function%20of%20division%0Aof%20probabilities%20for%20all%20basic%20points%20which%20create%20the%20object%20(Kub%C3%AD%CB%87%20cek%20et%20al.%2C%202017%3B%0AMaturo%2C%20Fortuna%2C%20%26%20Di%20Battista%2C%202018).%20Neighboring%20points%20will%20hardly%20ever%20change%0Aindependently%20because%20in%20their%20determination%20they%20are%20often%20similar%20in%20neighboring%0Apositions.%20This%20implies%20the%20need%20to%20model%20relationships%20or%20correlation%20between%20vague%0Apoints
+
+
+https://scholar.google.com.pe/scholar?hl=es&as_sdt=0%2C5&q=elements+of+spatial+data+quality&btnG=&oq=quality+data+geospatial+
+
+
+
+https://scholar.google.com.pe/scholar?hl=es&as_sdt=0%2C5&q=Metrics+to+Measure+Open+Geospatial+&btnG=
+
+How to verify the accuracy of a point on roads
+
+https://scholar.google.com.pe/scholar?hl=es&as_sdt=0%2C5&q=elements+of+spatial+data+quality&btnG=&oq=quality+data+geospatial+
+
+https://www.google.com/search?q=How+to+verify+the+accuracy+of+a+point+on+roads&ei=gT0RXdiZA4bl5gLvuryIBQ&start=10&sa=N&ved=0ahUKEwiY3umFhYPjAhWGslkKHW8dD1EQ8tMDCLQB&cshid=1561411052143113&biw=1366&bih=657
+
+How to verify the accuracy of a point on roads
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6263877/
+
+MODELOS BASADOS EN DATOS GPS PARA
+DETERMINAR LA NO DETENCIÓN DE BUSES
+EN PARADEROS
+
+https://repositorio.uc.cl/bitstream/handle/11534/21454/Garci%20a%20Nicola%20s.pdf?sequence=1
+
+https://docs.google.com/document/d/1koKxIr02e85vDyY0rvhSYsny0f4TPcRbGz8aFIsyHrA/edit
+
+How to measure the accuracy of a gps point thesis
+https://www.google.com.pe/search?q=How+to+measure+the+accuracy+of+a+gps+point+thesis&ei=970UXe6XM6HP5gLw9gE&start=10&sa=N&ved=0ahUKEwiu77v924njAhWhp1kKHXB7AAAQ8tMDCJIB&biw=1366&bih=657
+
+ACCURATE DISTANCE CALCULATION USING GPS WHILE PERFORMING
+LOW SPEED ACTIVITY
+
+https://pdfs.semanticscholar.org/fb1c/4ad58b91693f537a7d45517c62b140c495ce.pdf
+
+https://translate.google.com/translate?hl=es&sl=en&u=https://www.researchgate.net/post/Accuracy_classification_assessment_using_ground_truth_points-any_thoughts&prev=search
+
+
+======
+GEO PANDAS
+==========
+https://www.twilio.com/blog/2017/08/geospatial-analysis-python-geojson-geopandas.html
+
+https://realpython.com/location-based-app-with-geodjango-tutorial/
+
+
+============GENERACION DE POLIGONOS
+
+https://cglab.ca/~sander/misc/ConvexGeneration/convex.html
+https://stackoverflow.com/questions/5401661/google-maps-how-to-get-buildings-polygon-coordinates-from-address
+
+
+===POLIGONOS
+
+https://github.com/cmaene/centerline
+https://geoffboeing.com/publications/osmnx-complex-street-networks
+https://www.researchgate.net/publication/309738462_OSMnx_New_Methods_for_Acquiring_Constructing_Analyzing_and_Visualizing_Complex_Street_Networks/download
+https://github.com/osmdroid/osmdroid/wiki/Markers,-Lines-and-Polygons
+http://www.protectplanetocean.org/resources/docs/IUCN_MPA_GEtraining_GE_createdata.pdf
+
+
+https://translate.google.com/?hl=es#view=home&op=translate&sl=en&tl=es&text=creacion%20de%20poligonos%20con%20datos%20espaciales%0A%0AHello%2C%0A%0AI%20am%20new%20to%20ARCGIS%20and%20had%20a%20question%20about%20the%20best%20way%20to%20import%20polygon%20data%20from%20a%20csv%20into%20ARCGIS.%0A%0A%20%0A%0AI%20am%20able%20to%20import%20a%20csv%20file%20which%20has%20lat%2Flong%20points%20to%20create%20an%20XY%20event%20layer%2C%20and%20then%20create%20a%20shapfile%2C%20etc.%20I%20was%20wondering%20what%20the%20best%20way%20would%20be%20to%20do%20this%20for%20polygon%20data.%20I%20am%20going%20to%20have%20a%20csv%20file%20which%20has%20the%20lat%2Flong%20of%20the%20vertexes%20of%20the%20polygons%20and%20some%20of%20the%20polygon%20areas%20will%20be%20square%20(and%20have%20four%20vertexes)%2C%20however%20some%20of%20the%20polygons%20will%20have%20more%20complex%20shapes%20and%20may%20have%2010%20or%20more%20vertexes.%20I%20am%20aware%20of%20the%20Points%20to%20Line%20and%20Feature%20to%20Polygon%20tools%2C%20which%20I%20think%20will%20allow%20me%20to%20import%20the%20vertexes%20to%20create%20one%20polygon.%0A%0A%20%0A%0AHowever%20I%20have%20200%20or%20so%20polygons%20to%20import%20into%20my%20map%2C%20so%20this%20will%20take%20a%20long%20time.%20Is%20there%20an%20easy%20way%20to%20bring%20in%20the%20batch%20data%20points%20to%20create%20all%20of%20my%20polygons%20at%20once%3F%20Do%20I%20need%20to%20get%20some%20add-in%20tool%3F%0A%0A%20%0A%0AThanks%20very%20much
+
+https://github.com/cmaene/centerline
+
+https://geoffboeing.com/publications/osmnx-complex-street-networks/
+https://github.com/osmdroid/osmdroid/wiki/Markers,-Lines-and-Polygons
+http://www.protectplanetocean.org/resources/docs/IUCN_MPA_GEtraining_GE_createdata.pdf
+
+https://stackoverflow.com/questions/5401661/google-maps-how-to-get-buildings-polygon-coordinates-from-address
+
+https://www.bostongis.com/blog/index.php?/archives/28-Using-generate_series-to-Generate-Test-Spatial-Data.html
+https://stackoverflow.com/questions/27157122/how-to-create-a-polygon-and-get-it-coordinates-with-spatial-data-in-r
+https://github.com/mdiener21/python-geospatial-analysis-cookbook/tree/master/ch08/code
+
+
+===============DBSKAN
+T-DBSCAN: A Spatiotemporal Density Clustering for GPS Trajectory Segmentation"
+https://online-journals.org/index.php/i-joe/article/view/3881/3315
+https://online-journals.org/index.php/i-joe/article/view/3881/3315
+
+https://www.oreilly.com/ideas/clustering-geolocated-data-using-spark-and-dbscan
+
+https://stackoverflow.com/questions/34579213/dbscan-for-clustering-of-geographic-location-data
+
+https://numba.pydata.org/numba-doc/dev/roc/memory.html#shared-memory-and-thread-synchronization
+https://github.com/Tensor4Dummies/4_clustering/blob/master/k_means.py
+
+===============CALIDAD
+
+https://www.mdpi.com/2078-2489/7/4/67/htm
+GPS-based personal travel dataset collected in the city of Shanghai data
+https://www.mdpi.com/2078-2489/7/4/67/htm
+
+===============
+
+https://appelsiini.net/2008/introduction-to-marker-clustering-with-google-maps/
+
+haversine clustering formula python github
+
+https://console.cloud.google.com/google/maps-apis/apis/street-view-image-backend.googleapis.com/credentials?project=fiery-surf-241209&duration=PT1H
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5621022/
+A survey on trajectory clustering analysis
+https://arxiv.org/pdf/1802.06971.pdf
+
+T-DBSCAN: A Spatiotemporal Density
+Clustering for GPS Trajectory Segmentation 
+https://online-journals.org/index.php/i-joe/article/viewFile/3881/3315
+
+https://github.com/jayachithra/T-DBSCAN
+
+Density Clustering for GPS Trajectory Segmentation github
+
+T-DBSCAN - Spatiotemporal Density Clustering for GPS Trajectory Segmentation
+https://github.com/jayachithra/T-DBSCAN
+T-DBSCAN: A Spatiotemporal Density
+Clustering for GPS Trajectory Segmentation
+https://online-journals.org/index.php/i-joe/article/view/3881/3315
+
+
+https://www.researchgate.net/post/how_can_i_extract_elevation_values_using_coordinate_values_and_location_points
+
+https://www.researchgate.net/post/Is_there_an_easy_and_efficient_way_to_extract_elevation_values_from_a_DEM_to_a_polyline_in_ArcGIS
+
+clustering with elevation gps coordinatios
+
+https://pdfs.semanticscholar.org/db72/47ff7c4949c849545cf8d02033d93387abc5.pdf
+
+
+====== Accuracy
+
+
+use accuracy with georeferenced data
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5677268/
+
+https://www.tandfonline.com/doi/abs/10.1080/17538947.2017.1280549
+
+http://senseable.mit.edu/treepedia/treepedia_publication.pdf
+Assessing street-level urban greenery using Google Street View
+and a modified green view index
+
+http://senseable.mit.edu/treepedia/treepedia_publication.pdf
+Hierarchical Visual Feature Analysis for City Street View Datasets
+http://jamestompkin.com/pubs/Vis_VADL_2017_Li_HierarchicalVisualFeatureAnalysisForCityStreetViewDatasets.pdf
+
+ACCURACY ASSESSMENT OF 3D MODELS GENERATED FROM
+GOOGLE STREET VIEW IMAGERY
+
+https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W9/181/2019/isprs-archives-XLII-2-W9-181-2019.pdf
+
+============================
+
+https://libgen.is/search.php?req=+spatial++data+quality&open=0&res=25&view=simple&phrase=1&column=def
+=========================
+
+spatial quality data metrics
+https://www.researchgate.net/topic/Spatial-Metrics
+
+https://www.researchgate.net/post/What_is_the_relevance_of_landscape_metrics_upscaling2
+
+For a good paper that outlines issues with metrics and scale see Lu et al. 2013 Physical Geography
+https://www.tandfonline.com/doi/abs/10.1080/02723646.2013.778692
+
+https://www.census.gov/fedcasic/fc2014/ppt/05_keating.pdf
+
+Geospatial big data handling theory and methods: A review and research challenges
+
+https://www.sciencedirect.com/science/article/abs/pii/S0924271615002439
+
+http://www.istl.org/12-winter/article1.html
+
+Metrics to Measure Open Geospatial Data Quality
+http://www.istl.org/12-winter/article1.html
+RULES AND STANDARDS FOR SPATIAL DATA
+QUALITY IN GIS ENVIRONMENTS
+https://icaci.org/files/documents/ICC_proceedings/ICC2003/Papers/222.pdf
+
+establishment of metrics to measure elements of spatial quality
+
+Metrics to Measure Open Geospatial Data Quality
+RULES AND STANDARDS FOR SPATIAL DATA
+QUALITY IN GIS ENVIRONMENTS
+https://icaci.org/files/documents/ICC_proceedings/ICC2003/Papers/222.pdf
+
+http://svn.aksw.org/projects/GeoKnow/Public/D3.5.1_Initial_Report_On_Spatial_Data_Quality_Assessment.pdf
+
+Deliverable 3.5.1
+Initial Report On Spatial Data Quality Assessment
+
+
+953490223
+
+osm2pgsql D:\2018\TESIS_WILMER\Poligonos_R\alabama-latest.osm.pbf -d world-U postgres -P 5432 -S default.style -C 512 –hstore –H localhost -W –cache-strategy sparse
+
+
+
+======CLUSTERING
+
+https://sci-hub.tw/https://doi.org/10.1016/j.spasta.2017.01.006
+
+https://pdfs.semanticscholar.org/a251/2581f4860af0d9c2c009d11a866b67592139.pdf
+https://pdfs.semanticscholar.org/a251/2581f4860af0d9c2c009d11a866b67592139.pdf
+clustering spatial data survey
+https://github.com/detlevn/QGIS-ConcaveHull-Plugin/tree/master/test_data
+https://github.com/Robinlovelace/Creating-maps-in-R
+https://github.com/Robinlovelace/Creating-maps-in-R
+http://rpubs.com/bozcaga/GIS-in-R
+https://mgimond.github.io/Spatial/reading-and-writing-spatial-data-in-r.html
+http://rpubs.com/bozcaga/GIS-in-R
+create poligon with spatial data streets with r
+https://www.r-bloggers.com/plot-maps-like-a-boss/
+https://www.harrisgeospatial.com/Support/Forums/aft/4020
+https://rpubs.com/BeccaStubbs/bringing_shapefiles_into_R
+https://help.openstreetmap.org/questions/9816/the-best-way-to-extract-street-list
+http://web.stanford.edu/class/stats253/lectures_2014.html
+https://raw.githubusercontent.com/openstreetmap/osm2pgsql/master/default.style
+https://download.geofabrik.de/north-america.html
+https://mappinggis.com/2013/09/como-importar-datos-de-openstreetmap-postgis/
+https://stackoverflow.com/questions/17996957/fe-sendauth-no-password-supplied
+
+https://stackoverflow.com/questions/17996957/fe-sendauth-no-password-supplied
+
+https://stackoverflow.com/questions/17996957/fe-sendauth-no-password-supplied
+
+https://www.awcull.com/2015/10/13/Vis-Traffic-Signals-PostGIS-OSM-R.html
+https://www.awcull.com/2015/12/07/Draw-Poly-PostGIS-OSM-R.html
+https://www.awcull.com/2015/12/07/Draw-Poly-PostGIS-OSM-R.html
+r generate polygon with spatial data githhub
+
+
+https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf
+https://joseguerreroa.wordpress.com/2018/07/27/creando-poligonos-a-partir-de-sus-coordenadas-en-r/
+https://www.earthdatascience.org/courses/earth-analytics-python/spatial-data-vector-shapefiles/intro-vector-data-python/
+https://github.com/detlevn/QGIS-ConcaveHull-Plugin/tree/master/test_data
+https://www.earthdatascience.org/courses/earth-analytics-python/spatial-data-vector-shapefiles/intro-vector-data-python/
+
+============================================================================================================================================
+https://www.researchgate.net/post/How_can_I_create_drive_time_and_distance_polygons_using_open_source_tools
+https://shapely.readthedocs.io/en/stable/manual.html#geometric-objects
+https://scielo.conicyt.cl/pdf/ingeniare/v16n1/ART05.pdf
+https://www.datacamp.com/community/tutorials/geospatial-data-python
+https://www.researchgate.net/topic/Spatial-Metrics
+Metrics to Measure Open Geospatial Data Quality
+https://www.researchgate.net/publication/288820912_Metrics_to_measure_open_geospatial_data_quality
+http://www.istl.org/12-winter/article1.html
+http://www.istl.org/12-winter/article1.html
+Accuracy classification points gps
+https://pdfs.semanticscholar.org/11dd/e9633868ac95d5e943669d89972aabf24390.pdf
+verificacion cruzada entre datos de gps
+
+https://www.igic.org/resources/standards/map-scale-accuracy/
+
+https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=spatial%20data%20quality
+
+https://ieeexplore.ieee.org/document/8226432
+
+georeference point exactly science direct
+
+https://www.sciencedirect.com/science/article/abs/pii/S092427161400149X
+
+How to verify the accuracy of a point on roads
+
+https://www.igic.org/resources/standards/map-scale-accuracy/
+
+https://wiki.openstreetmap.org/wiki/Test_the_accuracy_of_GPS_devices#Accuracy_of_Data
+https://wiki.openstreetmap.org/wiki/DE:Genauigkeit_von_Koordinaten
+https://repositorio.uc.cl/bitstream/handle/11534/21454/Garci%20a%20Nicola%20s.pdf?sequence=1
+https://translate.google.com/translate?hl=es&sl=en&u=https://www.researchgate.net/post/Accuracy_classification_assessment_using_ground_truth_points-any_thoughts&prev=search
+
+https://github.com/Automating-GIS-processes/Exercise-2
+https://www.datacamp.com/community/tutorials/geospatial-data-python
+============================================================================================================================================
